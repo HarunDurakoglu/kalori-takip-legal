@@ -1,51 +1,18 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kullanım Şartları – Kalori Takip</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 40px;
-      max-width: 900px;
-      margin: auto;
-      line-height: 1.7;
-    }
-    h1 { margin-bottom: 20px; }
-  </style>
-</head>
-<body>
+# Kullanım Şartları – Kalori Takip
 
-<h1>Kullanım Şartları</h1>
+Kalori Takip uygulamasını kullanarak aşağıdaki şartları kabul etmiş olursunuz.
 
-<p>Kalori Takip uygulamasını kullanarak aşağıdaki koşulları kabul etmiş olursunuz:</p>
+## 1. Kullanım Amacı
+Bu uygulama kişisel besin takibi, kalori hesaplama ve sağlıklı yaşam amacıyla kullanılmak üzere tasarlanmıştır.
 
-<h2>1. Genel Kullanım</h2>
-<ul>
-  <li>Uygulamayı yasal ve doğru amaçlarla kullanmayı kabul edersiniz.</li>
-  <li>Uygulamada oluşturduğunuz veriler size aittir ve dilediğiniz zaman silebilirsiniz.</li>
-</ul>
+## 2. Veri Kullanımı
+Uygulama yalnızca kullanıcı tarafından eklenen öğün ve profil verilerini işler. Bu veriler üçüncü kişilerle paylaşılmaz.
 
-<h2>2. Veri Güvenliği</h2>
-<ul>
-  <li>Tüm veriler Firebase tarafından güvenli şekilde saklanmaktadır.</li>
-  <li>Kullanıcı verileri üçüncü taraflarla paylaşılmaz.</li>
-</ul>
+## 3. Sorumluluk Reddi
+Uygulama tıbbi bir tavsiye sunmaz. Sağlık kararı almadan önce uzman bir doktora danışınız.
 
-<h2>3. Premium Abonelikler</h2>
-<ul>
-  <li>Premium abonelikler Google Play Faturalandırma sistemi tarafından yönetilir.</li>
-  <li>Aylık/Yıllık ödeme planları Google tarafından yenilenir.</li>
-  <li>İptal işlemi kullanıcı tarafından Play Store üzerinden yapılabilir.</li>
-</ul>
+## 4. Hesap Güvenliği
+Hesap güvenliğinden kullanıcı sorumludur.
 
-<h2>4. Sorumluluk Reddi</h2>
-<p>Uygulama geliştiricisi, uygulamanın kullanımından doğabilecek herhangi bir teknik hata,
-veri kaybı veya dolaylı zarardan sorumlu tutulamaz.</p>
-
-<h2>5. İletişim</h2>
-<p>Herhangi bir sorunuz için: <strong>harun.software07@gmail.com</strong></p>
-
-</body>
-</html>
+## 5. Değişiklik Hakkı
+Kalori Takip dilediği zaman kullanım şartlarını güncelleyebilir.
