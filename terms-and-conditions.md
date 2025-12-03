@@ -35,4 +35,17 @@
 
 <h2>3. Premium Abonelikler</h2>
 <ul>
-  <li>Premium abonelikler Go
+  <li>Premium abonelikler Google Play Faturalandırma sistemi tarafından yönetilir.</li>
+  <li>Aylık/Yıllık ödeme planları Google tarafından yenilenir.</li>
+  <li>İptal işlemi kullanıcı tarafından Play Store üzerinden yapılabilir.</li>
+</ul>
+
+<h2>4. Sorumluluk Reddi</h2>
+<p>Uygulama geliştiricisi, uygulamanın kullanımından doğabilecek herhangi bir teknik hata,
+veri kaybı veya dolaylı zarardan sorumlu tutulamaz.</p>
+
+<h2>5. İletişim</h2>
+<p>Herhangi bir sorunuz için: <strong>harun.software07@gmail.com</strong></p>
+
+</body>
+</html>
