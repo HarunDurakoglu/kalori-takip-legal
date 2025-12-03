@@ -1,13 +1,23 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <title>Gizlilik Politikası</title>
-</head>
-<body>
-<h1>Gizlilik Politikası</h1>
-<p>Bu uygulama kullanıcı verilerini yalnızca uygulama deneyimini geliştirmek için toplar. Hiçbir veri üçüncü taraflarla paylaşılmaz.</p>
-<p>Kullanıcı verileri Firebase Authentication ve Firestore üzerinde güvenli şekilde saklanır.</p>
-<p>Uygulama hiçbir şekilde kişisel verileri satmaz veya paylaşmaz.</p>
-</body>
-</html>
+# Gizlilik Politikası – Kalori Takip
+
+Kalori Takip uygulaması kullanıcı gizliliğine önem verir.
+
+## 1. Toplanan Veriler
+- Kullanıcı e-postası (Firebase Auth)
+- Eklenen öğünler
+- Günlük besin kayıtları
+
+## 2. Verilerin Kullanımı
+Bu veriler sadece uygulama içi özellikleri sağlamak için kullanılır. Hiçbir şekilde üçüncü kişilerle paylaşılmaz veya satılmaz.
+
+## 3. Güvenlik
+Veriler Firebase tarafından güvenli şekilde saklanır.
+
+## 4. Üçüncü Taraf Servisleri
+- Firebase Authentication
+- Firestore Database
+- RevenueCat (Premium abonelik işlemleri)
+
+## 5. İletişim
+Herhangi bir gizlilik sorunuz için:
+**harun.software07@gmail.com**
