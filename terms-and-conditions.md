@@ -1,33 +1,13 @@
-# Kullanım Şartları – Kalori Takip
-
-Son güncelleme: 2025
-
-Bu kullanım şartları, Kalori Takip uygulamasını (“uygulama”) kullanan tüm kullanıcılar için geçerlidir. Uygulamayı kullanarak aşağıdaki şartları kabul etmiş olursunuz.
-
-## 1. Hizmet Açıklaması
-Kalori Takip, kullanıcıların günlük öğün ve kalori takibi yapmasına yardımcı olmak için geliştirilmiş bir mobil uygulamadır. Uygulama AI destekli analizler sunabilir ancak verilen değerler tahmini olup kesin doğruluk garantisi yoktur.
-
-## 2. Kullanıcı Yükümlülükleri
-- Uygulamayı kötüye kullanmamak
-- Hesap bilgilerini gizli tutmak
-- Yasalara aykırı veri yüklememek
-
-## 3. Abonelikler
-Premium özellikler RevenueCat + Google Play Billing üzerinden yönetilir.
-
-Abonelik iade, iptal ve faturalandırma süreçleri Google Play tarafından yönetilir.
-
-## 4. Verilerin İşlenmesi
-Kullanıcı verileri Gizlilik Politikası’nda belirtilen şekilde işlenir.
-
-## 5. Sorumluluk Reddi
-Uygulama tarafından verilen besin değerleri yalnızca tahmini olup tıbbi tavsiye niteliği taşımaz.
-
-## 6. Hesap Silme
-Kullanıcı istediği zaman hesabını silebilir.
-
-## 7. Değişiklik Hakkı
-Uygulama sahibi kullanım şartlarını güncelleyebilir.
-
-**İletişim:**  
-harun.software07@gmail.com
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>KullanÄ±m ÅartlarÄ±</title>
+</head>
+<body>
+<h1>KullanÄ±m ÅartlarÄ±</h1>
+<p>Bu uygulamayÄ± kullanarak saÄŸladÄ±ÄŸÄ±nÄ±z bilgilerin doÄŸru olduÄŸunu kabul etmiÅŸ olursunuz.</p>
+<p>Uygulama geliÅŸtiricisi, uygulamanÄ±n Ã§alÄ±ÅŸmasÄ± sÄ±rasÄ±nda oluÅŸabilecek hatalardan sorumlu deÄŸildir.</p>
+<p>Premium aboneliklerde Ã¶deme, Google Play tarafÄ±ndan yÃ¶netilir.</p>
+</body>
+</html>
